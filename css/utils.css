@@ -62,6 +62,14 @@
     color: white;
     background-color: rgb(227 74 56);;
 }
+.btn:hover{
+    padding:7px 12px;
+    border: 2px solid rgb(227 74 56);;
+    border-radius: 6px;
+    cursor: pointer;
+    color: rgb(227 74 56);;
+    background-color: white;
+}
 
 .overflow-x-hidden{
     overflow-x: hidden;
