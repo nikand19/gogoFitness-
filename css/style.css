@@ -137,3 +137,20 @@ footer{
     font-weight: bolder;
     margin: 12px 0;
 }
+
+#Home:hover{
+    font-weight: bolder;
+    cursor: pointer;
+}
+#About:hover{
+    font-weight: bolder;
+    cursor: pointer;
+}
+#Services:hover{
+    font-weight: bolder;
+    cursor: pointer;
+}
+#Contact:hover{
+    font-weight: bolder;
+    cursor: pointer;
+}
